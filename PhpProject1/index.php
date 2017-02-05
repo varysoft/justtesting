@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo 'well just testing! - 2159';
+        echo 'well just testing! - 2202-remote';
         ?>
     </body>
 </html>
